@@ -1,0 +1,23 @@
+﻿year,host_country,host_city_final,stadium,winner,runner_up,winner_captain,winner_head_coach,win_method,winner_goals,runner_up_goals,attendance,total_teams,matches_played,winner_titles_after_win,continent_winner,golden_ball,golden_boot,best_young_player,golden_glove,top_scorer_goals,mascot,official_ball
+1930,Uruguay,Montevideo,Estadio Centenario,Uruguay,Argentina,José Nasazzi,Alberto Suppici,Regular Time,4,2,68346,13,18,1,South America,N/A,Guillermo Stábile,N/A,N/A,8,N/A,T-Model
+1934,Italy,Rome,Stadio Nazionale PNF,Italy,Czechoslovakia,Gianpiero Combi,Vittorio Pozzo,Extra Time,2,1,55000,16,17,1,Europe,N/A,Oldřich Nejedlý,N/A,N/A,5,N/A,Federale 102
+1938,France,Paris,Stade Olympique de Colombes,Italy,Hungary,Giuseppe Meazza,Vittorio Pozzo,Regular Time,4,2,45000,15,18,2,Europe,N/A,Leônidas,N/A,N/A,7,N/A,Allen
+1950,Brazil,Rio de Janeiro,Maracanã,Uruguay,Brazil,Obdulio Varela,Juan López Fontana,Regular Time,2,1,173850,13,22,2,South America,N/A,Ademir,N/A,N/A,9,N/A,Super Duplo T
+1954,Switzerland,Bern,Wankdorf Stadium,West Germany,Hungary,Fritz Walter,Sepp Herberger,Regular Time,3,2,62500,16,26,1,Europe,N/A,Sándor Kocsis,N/A,N/A,11,N/A,Swiss World Champion
+1958,Sweden,Solna,Råsunda Stadium,Brazil,Sweden,Hilderaldo Bellini,Vicente Feola,Regular Time,5,2,49737,16,35,1,South America,N/A,Just Fontaine,N/A,N/A,13,N/A,Top Star
+1962,Chile,Santiago,Estadio Nacional,Brazil,Czechoslovakia,Mauro,Aymoré Moreira,Regular Time,3,1,68679,16,32,2,South America,N/A,Flórián Albert,N/A,N/A,4,N/A,Crack
+1966,England,London,Wembley Stadium,England,West Germany,Bobby Moore,Alf Ramsey,Extra Time,4,2,96924,16,32,1,Europe,N/A,Eusébio,N/A,N/A,9,World Cup Willie,Challenge 4-Star
+1970,Mexico,Mexico City,Estadio Azteca,Brazil,Italy,Carlos Alberto Torres,Mário Zagallo,Regular Time,4,1,107412,16,32,3,South America,N/A,Gerd Müller,N/A,N/A,10,Juanito,Telstar
+1974,West Germany,Munich,Olympiastadion,West Germany,Netherlands,Franz Beckenbauer,Helmut Schön,Regular Time,2,1,78200,16,38,2,Europe,N/A,Grzegorz Lato,N/A,N/A,7,Tip and Tap,Telstar Durlast
+1978,Argentina,Buenos Aires,Estadio Monumental,Argentina,Netherlands,Daniel Passarella,César Luis Menotti,Extra Time,3,1,71483,16,38,1,South America,N/A,Mario Kempes,N/A,N/A,6,Gauchito,Tango
+1982,Spain,Madrid,Santiago Bernabéu Stadium,Italy,West Germany,Dino Zoff,Enzo Bearzot,Regular Time,3,1,90000,24,52,3,Europe,Paolo Rossi,Paolo Rossi,N/A,N/A,6,Naranjito,Tango España
+1986,Mexico,Mexico City,Estadio Azteca,Argentina,West Germany,Diego Maradona,Carlos Bilardo,Regular Time,3,2,114600,24,52,2,South America,Diego Maradona,Gary Lineker,N/A,N/A,6,Pique,Azteca México
+1990,Italy,Rome,Stadio Olimpico,West Germany,Argentina,Lothar Matthäus,Franz Beckenbauer,Regular Time,1,0,73603,24,52,3,Europe,Salvatore Schillaci,Salvatore Schillaci,N/A,N/A,6,Ciao,Etrusco Unico
+1994,United States,Pasadena,Rose Bowl,Brazil,Italy,Dunga,Carlos Alberto Parreira,Penalties,0,0,94194,24,52,4,South America,Romário,Oleg Salenko; Hristo Stoichkov,N/A,Michel Preud'homme,6,Striker,Questra
+1998,France,Saint-Denis,Stade de France,France,Brazil,Didier Deschamps,Aimé Jacquet,Regular Time,3,0,80000,32,64,1,Europe,Ronaldo,Davor Šuker,N/A,Fabien Barthez,6,Footix,Tricolore
+2002,South Korea/Japan,Yokohama,International Stadium Yokohama,Brazil,Germany,Cafu,Luiz Felipe Scolari,Regular Time,2,0,69029,32,64,5,South America,Oliver Kahn,Ronaldo,N/A,Oliver Kahn,8,Ato,Korea/Japan Fevernova
+2006,Germany,Berlin,Olympiastadion,Italy,France,Fabio Cannavaro,Marcello Lippi,Penalties,1,1,69000,32,64,4,Europe,Zinedine Zidane,Miroslav Klose,Lukas Podolski,Gianluigi Buffon,5,Goleo + Pille,Teamgeist
+2010,South Africa,Johannesburg,Soccer City,Spain,Netherlands,Iker Casillas,Vicente del Bosque,Extra Time,1,0,84490,32,64,1,Europe,Diego Forlán,Thomas Müller,Thomas Müller,Iker Casillas,5,Zakumi,Jabulani
+2014,Brazil,Rio de Janeiro,Maracanã,Germany,Argentina,Philipp Lahm,Joachim Löw,Extra Time,1,0,74738,32,64,4,Europe,Lionel Messi,James Rodríguez,Paul Pogba,Manuel Neuer,6,Fuleco,Brazuca
+2018,Russia,Moscow,Luzhniki Stadium,France,Croatia,Hugo Lloris,Didier Deschamps,Regular Time,4,2,78011,32,64,2,Europe,Luka Modrić,Harry Kane,Kylian Mbappé,Thibaut Courtois,6,Zabivaka,Telstar 18
+2022,Qatar,Lusail,Lusail Stadium,Argentina,France,Lionel Messi,Lionel Scaloni,Penalties,3,3,88966,32,64,3,South America,Lionel Messi,Kylian Mbappé,Enzo Fernández,Emiliano Martínez,8,La'eeb,Al Rihla
