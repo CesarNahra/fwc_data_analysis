@@ -1,18 +1,27 @@
-# História das Copas do Mundo FIFA (1930–2022)
+# History of the FIFA World Cups (1930–2022)
+## Exploratory Data Analysis (EDA)
+The objective of this project is to conduct an Exploratory Data Analysis (EDA) using historical data from the FIFA World Cups, from the first tournament held in 1930 through the 2022 tournament.
+Exploratory Data Analysis is one of the most important stages of a data science project, as it allows us to understand the structure of the dataset, identify quality issues, detect patterns, find relationships between variables, and generate hypotheses for further analysis.
+During this study, the following techniques will be applied:
+- Data cleaning
+- Handling missing values
+- Handling inconsistencies
+- Descriptive statistics
+- Data visualization
+- Data-driven storytelling
+At the end, a historical overview of the evolution of the World Cup will be constructed using the data available in the dataset.
 
-## Análise Exploratória de Dados (EDA)
+# Data Quality Assessment
 
-Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (Exploratory Data Analysis – EDA) utilizando informações históricas das Copas do Mundo FIFA, desde sua primeira edição, realizada em 1930, até a edição de 2022.
+Before performing any data cleaning procedure, it is essential to evaluate the quality of the dataset.
 
-A Análise Exploratória de Dados representa uma das etapas mais importantes de um projeto de Ciência de Dados, pois permite compreender a estrutura do conjunto de dados, identificar problemas de qualidade, detectar padrões, encontrar relações entre variáveis e gerar hipóteses para análises posteriores.
+At this stage, we will investigate aspects that may compromise future analyses, such as:
 
-Durante este estudo serão aplicadas técnicas de:
+- missing values;
+- duplicate records;
+- inconsistencies;
+- incorrect data types;
+- column standardization;
+- value distribution.
 
-- Limpeza dos dados
-- Tratamento de valores ausentes
-- Tratamento de inconsistências
-- Estatística descritiva
-- Visualização de dados
-- Storytelling baseado em dados
-
-Ao final será construída uma visão histórica da evolução da Copa do Mundo através dos dados disponíveis no dataset.
+The objective is to understand the current state of the dataset before making any modifications.
