@@ -41,3 +41,52 @@ In this section, we will:
 - inspect data types;
 - standardize textual values;
 - identify potential inconsistencies.
+
+# Descriptive Statistical Analysis
+
+Descriptive statistics summarize the main characteristics of a dataset through numerical measures.
+
+Rather than inspecting individual observations, descriptive statistics provide an overview of the data distribution, central tendency, variability, and spread.
+
+In this section, we will explore the numerical variables available in the FIFA World Cup dataset by computing statistical measures such as:
+
+- mean;
+- median;
+- mode;
+- variance;
+- standard deviation;
+- coefficient of variation;
+- minimum and maximum values;
+- quartiles;
+- percentiles;
+- range.
+
+These measures provide the foundation for understanding the behavior of the dataset before moving on to visual analysis.
+
+# Univariate Analysis
+
+After computing the descriptive statistics, the next step is to investigate the distribution of each numerical variable individually.
+
+Univariate analysis helps answer questions such as:
+
+- Is the data normally distributed?
+- Are there any outliers?
+- Is the distribution symmetric or skewed?
+- Where are most observations concentrated?
+- How much variability exists?
+
+To answer these questions, we will combine numerical summaries with graphical representations.
+
+## Summary of the Univariate Analysis
+
+The univariate analysis provides a detailed understanding of each numerical variable independently.
+
+By combining descriptive statistics with histograms and boxplots, we can identify:
+
+- the overall shape of each distribution;
+- the presence of skewness;
+- the spread of the data;
+- potential outliers;
+- variables with low or high variability.
+
+It is important to emphasize that outliers in historical datasets are not necessarily data quality issues. Instead, they often represent unique historical events that should be preserved rather than removed.
