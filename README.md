@@ -25,3 +25,19 @@ At this stage, we will investigate aspects that may compromise future analyses, 
 - value distribution.
 
 The objective is to understand the current state of the dataset before making any modifications.
+
+# Data Cleaning
+
+Data cleaning is one of the most important stages of an Exploratory Data Analysis (EDA).
+
+Even datasets obtained from reliable sources may contain issues such as duplicate records, inconsistent text formatting, incorrect data types, or non-standardized column names.
+
+Cleaning the data ensures that subsequent analyses are accurate, reproducible, and easier to interpret.
+
+In this section, we will:
+
+- detect duplicate records;
+- standardize column names;
+- inspect data types;
+- standardize textual values;
+- identify potential inconsistencies.
