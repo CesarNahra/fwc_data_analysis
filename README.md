@@ -90,3 +90,26 @@ By combining descriptive statistics with histograms and boxplots, we can identif
 - variables with low or high variability.
 
 It is important to emphasize that outliers in historical datasets are not necessarily data quality issues. Instead, they often represent unique historical events that should be preserved rather than removed.
+
+# Bivariate Analysis
+
+While univariate analysis focuses on individual variables, bivariate analysis investigates the relationship between pairs of variables.
+
+Understanding these relationships helps identify trends, correlations, and historical patterns that cannot be observed by analyzing variables independently.
+
+Throughout this section, we will answer questions such as:
+
+- Has the tournament attendance increased over time?
+- Did the number of participating teams influence the number of matches?
+- Is there a relationship between attendance and tournament size?
+- How has the FIFA World Cup evolved throughout its history?
+
+The objective is not only to visualize relationships, but also to interpret the historical evolution of the tournament through data.
+
+## Summary of the Bivariate Analysis
+
+The bivariate analysis revealed how the main numerical variables interact throughout the history of the FIFA World Cup.
+
+The combination of correlation analysis, line charts, and scatter plots makes it possible to identify historical trends and relationships that are not evident when variables are analyzed individually.
+
+These findings establish the foundation for the next stage of the analysis, where categorical variables such as champion countries, host nations, and winning continents will be explored to uncover the historical narrative of the tournament.
